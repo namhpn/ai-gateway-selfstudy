@@ -1,2 +1,5 @@
 # ai-gateway-selfstudy
-A missed deadline is still a missed deadline
+School project
+
+## Based on
+Node.js, Express.js, HTML, CSS (got some help from chatgpt hehe), JS, GoogleGenAI
